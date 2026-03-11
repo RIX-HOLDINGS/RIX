@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/// @title RIXSecureChainProtocol - Core Safety Layer for ETFRIX Funds & Transfers
+/// @title RIXSecureChainProtocol - Core Safety Layer for RIX Funds & Transfers
 /// @notice Provides secure fund management, freezing mechanisms, and movement validation
 
 contract RIXSecureChainProtocol {
