@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/// @title FraudShield - Behavioral Analysis & Alert System for ETFRIX
+/// @title FraudShield - Behavioral Analysis & Alert System for RIX
 /// @notice Monitors and flags suspicious activities and provides complaint submission and audit logs.
 
 contract FraudShield {
