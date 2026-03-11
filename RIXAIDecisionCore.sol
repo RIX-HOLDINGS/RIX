@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/// @title RIXAIDecisionCore - Smart Logic Hub for ETFRIX AI Decision System
+/// @title RIXAIDecisionCore - Smart Logic Hub for RIX AI Decision System
 /// @notice Receives transaction signals and provides AI-based investment suggestions.
 
 contract RIXAIDecisionCore {
