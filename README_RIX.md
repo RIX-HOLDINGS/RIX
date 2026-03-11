@@ -1,6 +1,6 @@
 # RIX Smart Contract Suite
 
-Welcome to the official Solidity-based smart contract infrastructure for the **ETFRIX** ecosystem — a secure, AI-powered digital asset platform combining ETF logic, real estate tokenization, and blockchain innovation.
+Welcome to the official Solidity-based smart contract infrastructure for the **RIX** ecosystem — a secure, AI-powered digital asset platform combining ETF logic, real estate tokenization, and blockchain innovation.
 
 ## 🔗 Contracts
 
