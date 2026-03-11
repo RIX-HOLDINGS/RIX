@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/// @title FLEXTrendEngine - On-chain Market Signal Provider for ETFRIX
+/// @title FLEXTrendEngine - On-chain Market Signal Provider for RIX
 /// @notice Stores and publishes trend signals from authorized market data sources
 
 contract FLEXTrendEngine {
